@@ -20,5 +20,5 @@ from project import app
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("app1",app),
+    path("app1",app
 ]
